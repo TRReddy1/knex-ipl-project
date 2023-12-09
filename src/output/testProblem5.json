@@ -1,0 +1,16 @@
+[
+  { "toss_winner": "Rising Pune Supergiant", "count(`toss_winner`)": 5 },
+  { "toss_winner": "Kolkata Knight Riders", "count(`toss_winner`)": 44 },
+  { "toss_winner": "Kings XI Punjab", "count(`toss_winner`)": 28 },
+  { "toss_winner": "Royal Challengers Bangalore", "count(`toss_winner`)": 35 },
+  { "toss_winner": "Sunrisers Hyderabad", "count(`toss_winner`)": 17 },
+  { "toss_winner": "Mumbai Indians", "count(`toss_winner`)": 48 },
+  { "toss_winner": "Gujarat Lions", "count(`toss_winner`)": 10 },
+  { "toss_winner": "Delhi Daredevils", "count(`toss_winner`)": 33 },
+  { "toss_winner": "Chennai Super Kings", "count(`toss_winner`)": 42 },
+  { "toss_winner": "Rajasthan Royals", "count(`toss_winner`)": 34 },
+  { "toss_winner": "Deccan Chargers", "count(`toss_winner`)": 19 },
+  { "toss_winner": "Kochi Tuskers Kerala", "count(`toss_winner`)": 4 },
+  { "toss_winner": "Pune Warriors", "count(`toss_winner`)": 3 },
+  { "toss_winner": "Rising Pune Supergiants", "count(`toss_winner`)": 3 }
+]
